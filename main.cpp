@@ -1,7 +1,4 @@
 //main.cpp
-//niaz hussain
-//ticket queue manager
-//cst 202 – data structures
 
 #include <iostream>
 #include <string>
