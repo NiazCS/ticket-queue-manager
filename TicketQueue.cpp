@@ -1,7 +1,4 @@
 //ticketqueue.cpp
-//niaz hussain
-//ticket queue manager
-//cst 202 – data structures
 
 #include "TicketQueue.h"
 #include <chrono>
