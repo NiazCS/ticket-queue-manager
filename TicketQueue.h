@@ -1,7 +1,4 @@
 //ticketqueue.h
-//niaz hussain
-//ticket queue manager
-//cst 202 – data structures
 
 #ifndef TICKETQUEUE_H
 #define TICKETQUEUE_H
